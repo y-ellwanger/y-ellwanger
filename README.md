@@ -4,7 +4,7 @@ Hi 👋 My name is Yuri
 Software Developer
 ------------------
 
-I'm a Computer Science student who loves to code! Though I've started my degree recently, I've been studying programming for quite some time already. My GitHub is my playground, it's where I share my projects, studies and interests!
+I'm a Computer Science student who loves to code! Although I've started my degree recently, I've been studying programming for quite some time already. My GitHub is my playground, it's where I share my projects, studies and interests!
 
 * 🧠  I'm learning Full Stack development (but I like to study about basically everything)
 * 🤝  I'm open to collaborating on any interesting projects
